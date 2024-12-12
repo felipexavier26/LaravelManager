@@ -34,3 +34,43 @@ Este é um projeto desenvolvido em <b>Laravel</b> que implementa um sistema CRUD
 
 
 
+1. **Clone o repositório:**
+   ```bash
+      git clone https://github.com/seu-usuario/laravel-crud.git
+      cd laravel-crud
+
+2. **Instale as Dependências:**
+   ```bash
+     composer install
+
+
+3. **Configure o Arquivo .env**
+   ```bash
+   cp .env.example .env
+
+    DB_CONNECTION=mysql
+    DB_HOST=127.0.0.1
+    DB_PORT=3306
+    DB_DATABASE=crud
+    DB_USERNAME=root
+    DB_PASSWORD=   
+
+4. **Gere a Chave da Aplicação:**
+   ```bash
+   php artisan key:generate
+
+5. **Crie o Banco de Dados**
+   ```bash
+    CREATE DATABASE crud;
+
+6. **Rode as Migrações**<br>
+    ```bash    
+    php artisan migrate
+
+    
+7. **Inicie o Servidor**
+   ```bash
+    php artisan serve
+
+ 
+
