@@ -61,7 +61,7 @@ Este é um projeto desenvolvido em <b>Laravel</b> que implementa um sistema CRUD
 
 5. **Crie o Banco de Dados**
    ```bash
-    CREATE DATABASE crud;
+    CREATE DATABASE crud
 
 6. **Rode as Migrações**<br>
     ```bash    
