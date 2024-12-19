@@ -36,7 +36,7 @@ Este é um projeto desenvolvido em <b>Laravel</b> que implementa um sistema CRUD
 
 1. **Clone o repositório:**
    ```bash
-      git clone https://github.com/seu-usuario/laravel-crud.git
+      git clone https://github.com/seu-usuario/LaravelManager.git
       cd laravel-crud
 
 2. **Instale as Dependências:**
