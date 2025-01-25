@@ -72,5 +72,9 @@ Este é um projeto desenvolvido em <b>Laravel</b> que implementa um sistema CRUD
    ```bash
     php artisan serve
 
+
+
+![image](https://github.com/user-attachments/assets/f6fd0d46-8a2e-48e4-be8b-a7c0bbb3b3d4)
+
  
 
